@@ -2,10 +2,13 @@ import 'package:flutter/material.dart';
 import 'package:well_bin01/home.dart';
 // import 'camera.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(const MyApp());
 }
 
@@ -100,46 +103,16 @@ class FirstPage extends StatelessWidget {
               child: Column(
                 children: [
                   const SizedBox(height: 300),
-                  // const Text(
-                  //   'Well-bin',
-                  //   style: TextStyle(
-                  //     fontSize: 35,
-                  //     fontWeight: FontWeight.w500,
-                  //     color: Colors.white,
-                  //   ),
-                  // ),
                   Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       const SizedBox(
-                        width: 100,
+                        width: 10,
                       ),
                       Image.asset('images/well-bin-logo.png'),
                     ],
                   ),
                   const SizedBox(height: 10),
-                  // TextButton(
-                  //   style: TextButton.styleFrom(
-                  //     backgroundColor: Colors.white,
-                  //     shape: RoundedRectangleBorder(
-                  //       borderRadius: BorderRadius.circular(10),
-                  //     ),
-                  //     minimumSize:
-                  //         Size(MediaQuery.of(context).size.width * 0.94, 70),
-                  //     maximumSize:
-                  //         Size(MediaQuery.of(context).size.width * 0.94, 70),
-                  //   ),
-                  //   child: const Text(
-                  //     'Upload a photo',
-                  //     style: TextStyle(
-                  //       fontSize: 20,
-                  //       color: Colors.black,
-                  //     ),
-                  //   ),
-                  //   onPressed: () {
-                  //     showPopup(context, 'Upload a Photo');
-                  //   },
-                  // ),
-                  // const SizedBox(height: 10),
                   TextButton(
                     style: TextButton.styleFrom(
                       // backgroundColor: Colors.white,
