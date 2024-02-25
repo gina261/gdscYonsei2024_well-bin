@@ -5,7 +5,7 @@ You can use the app to check nutrition facts before eating. Plus, if you end up 
 
 ## Related SDGs
 SDG 3 & SDG 12
-![그림1](https://github.com/gina261/gdscYonsei2024_well-bin/assets/128567376/8a1d8a3e-8886-4b11-9ba9-089041f7d3a3)
+![그림1](https://github.com/gina261/gdscYonsei2024_well-bin/assets/128567376/1e06d5f6-612f-4ebf-8d21-ec8d2b538361)
 
 ## 🏞️ preview
 ![그림1](https://github.com/gina261/gdscYonsei2024_well-bin/assets/128567376/eb03c665-91eb-4417-84ba-6c60b12ded4f)
