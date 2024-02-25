@@ -3,7 +3,7 @@
 Well-bin is an application for healthy environment. Our app helps people deal with the growing waste from food deliveries by labelling what can be recycled. We get that recycling can be hassle, so our app not only make it easy but also gives you useful info.
 You can use the app to check nutrition facts before eating. Plus, if you end up with recycling after eating, the app spots it and tells you how to recycle it properly. It's all about making life simpler and healthier for you and the environment.
 
-## Related SDGs
+## 😀 Related SDGs
 ![그림1](https://github.com/gina261/gdscYonsei2024_well-bin/assets/128567376/1e06d5f6-612f-4ebf-8d21-ec8d2b538361)
 
 ## 🏞️ preview
