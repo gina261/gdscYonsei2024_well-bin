@@ -12,7 +12,7 @@ You can use the app to check nutrition facts before eating. Plus, if you end up 
 ## 📱 Execution Method
 [Download the apk file](https://drive.google.com/file/d/16dB8PXNlKnymnelD9GSc10bhtyBLIR4F/view?usp=drive_link) for Android users
 
-## 🎬 Demo Video Link
+## 🎬 [Demo Video Link](https://youtu.be/YLrnAHE7nmY?si=a-Q_87aVQ1xl-44J)
 
 ## 🧑‍💻 Backend
 [Click here](https://github.com/hobbychive/WellBin-Backends) to see our backend reposition
